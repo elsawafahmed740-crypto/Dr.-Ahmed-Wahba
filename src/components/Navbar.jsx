@@ -164,13 +164,13 @@ export function Navbar() {
               <FaTooth className="text-sm sm:text-base" />
             </span>
             <span>
-              <span className="block text-base font-bold leading-tight">Dr. Wahba</span>
+              <span className="block text-base font-bold leading-tight">Dr. Ahmed Wahba</span>
               <span
                 className={`block text-[9px] sm:text-[11px] font-medium uppercase tracking-[0.18em] ${
                   isHomeTop ? 'text-white/55' : 'text-slate-400'
                 }`}
               >
-                Dental Specialist
+                Dentist
               </span>
             </span>
           </Link>
