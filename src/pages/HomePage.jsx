@@ -231,6 +231,7 @@ function CoursesSection() {
       icon: Camera,
       tone: 'from-[#1E5FA8] to-blue-500',
       courses: [
+        { name: 'Rogin Root Canal Masters Cloud Class 2026 – Precision Treatment Bootcamp', place: 'Advanced Endodontics Training Program', date: '2026' },
         { name: 'MDS Online Course', place: 'Dental Academy', date: '2025' },
         { name: 'Dental Photography Course', place: 'Clinical Documentation Workshop', date: '2024' },
       ]
